@@ -8,13 +8,13 @@ const COLORS = [
   "red",
   "blue",
   "green",
-  "orange",
   "purple",
+  "orange",
   "red",
   "blue",
   "green",
-  "orange",
-  "purple"
+  "purple",
+  "orange"
 ];
 
 // here is a helper function to shuffle an array
